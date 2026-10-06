@@ -1,4 +1,5 @@
 number= int(input("give a number"))
-factors= 
+factors= []
+
 
 print(factors)

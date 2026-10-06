@@ -1,4 +1,4 @@
-def bill = float(input("How much was the bill? "))
+bill = float(input("How much was the bill? "))
 tip=[1,1.15,1.2,1.25]
 print("how was the service?")
 service=input("Enter service quality (bad, okay, good, great): ")
