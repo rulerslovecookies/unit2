@@ -1,4 +1,4 @@
-x = 100
+x = int(input("give number"))
 if x % 2 == 0:
     print("even")
 else:
